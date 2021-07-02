@@ -26,7 +26,7 @@
     <string name="ic_crop">&#xf565;</string>
     <string name="choose_from_gallery">Wähle aus der Galerie</string>
     <string name="choose_from_camera">Wähle aus der Kamera</string>
-    <string name="undo">Rückgängig machen</string>
+    <string name="undo">Löschen</string>
     <string name="erase">Löschen</string>
 
 </resources>
