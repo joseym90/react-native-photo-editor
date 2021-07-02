@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <string name="title_activity_photo_editor">PhotoEditorActivity</string>
+    <string name="done">Hecho</string>
+    <string name="save">Guardar</string>
+    <string name="clear_all">Deshacer todo</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="upload_dialog_title">Subir imagen</string>
+    <string name="upload_picker_title">Seleccionar imagen</string>
+    <string name="directory_create_fail">Error al crear el directorio</string>
+    <string name="access_media_permissions_msg">Para aderir imágenes, necesitamos acceder a los archivos media en su dispositivo</string>
+    <string name="continue_txt">Continuar</string>
+    <string name="not_now">AHORA NO</string>
+    <string name="media_access_denied_msg">Has denegado el acceso al almacenamiento, no podemos aderir imágenes</string>
+    <string name="save_image_succeed">Imagen guardada</string>
+
+    <string name="ic_close">"\ue918"</string>
+    <string name="ic_text">"\ue945"</string>
+    <string name="ic_draw">""\ue944</string>
+    <string name="ic_images">"\ue949"</string>
+    <string name="ic_save">"\ue946"</string>
+    <string name="ic_clear_all">"\ue947"</string>
+    <string name="ic_continue">"\ue948"</string>
+    <string name="ic_delete">"\ue92c"</string>
+    <string name="ic_crop">&#xf565;</string>
+    <string name="choose_from_gallery">Seleccionar desde la galería</string>
+    <string name="choose_from_camera">Seleccionar desde la cámara</string>
+    <string name="undo">Deshacer</string>
+    <string name="erase">Borrar</string>
+
+</resources>

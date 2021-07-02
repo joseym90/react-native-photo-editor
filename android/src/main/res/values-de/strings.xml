@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <string name="title_activity_photo_editor">PhotoEditorActivity</string>
+    <string name="done">Fertig</string>
+    <string name="save">Speichern</string>
+    <string name="clear_all">Alles löschen</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
+    <string name="upload_dialog_title">Bild hochladen</string>
+    <string name="upload_picker_title">Bild auswählen</string>
+    <string name="directory_create_fail">Verzeichnis konnte nicht erstellt werden</string>
+    <string name="access_media_permissions_msg">Um Fotos anzuhängen, müssen wir auf Medien auf Ihrem Gerät zugreifen</string>
+    <string name="continue_txt">Fortsetzen</string>
+    <string name="not_now">NICHT JETZT</string>
+    <string name="media_access_denied_msg">Sie haben den Speicherzugriff verweigert. Es werden keine Fotos hinzugefügt.</string>
+    <string name="save_image_succeed">Bild gespeichert</string>
+
+    <string name="ic_close">"\ue918"</string>
+    <string name="ic_text">"\ue945"</string>
+    <string name="ic_draw">""\ue944</string>
+    <string name="ic_images">"\ue949"</string>
+    <string name="ic_save">"\ue946"</string>
+    <string name="ic_clear_all">"\ue947"</string>
+    <string name="ic_continue">"\ue948"</string>
+    <string name="ic_delete">"\ue92c"</string>
+    <string name="ic_crop">&#xf565;</string>
+    <string name="choose_from_gallery">Wähle aus der Galerie</string>
+    <string name="choose_from_camera">Wähle aus der Kamera</string>
+    <string name="undo">Rückgängig machen</string>
+    <string name="erase">Löschen</string>
+
+</resources>
